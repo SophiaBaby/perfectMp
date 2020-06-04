@@ -1,0 +1,32 @@
+{
+  "name": "perfectmp",
+  "version": "1.0.0",
+  "description": "完美的小程序框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophiaBaby/perfectMp.git"
+  },
+  "keywords": [
+    "perfectMp",
+    "little",
+    "program",
+    "Applet"
+  ],
+  "author": "1759553621@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophiaBaby/perfectMp/issues"
+  },
+  "homepage": "https://github.com/SophiaBaby/perfectMp#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "inquirer": "^7.1.0",
+    "metalsmith": "^2.3.0",
+    "shelljs": "^0.8.4",
+    "update-notifier": "^4.1.0"
+  }
+}
